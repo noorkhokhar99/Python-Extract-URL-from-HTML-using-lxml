@@ -1,13 +1,6 @@
 # Python-Extract-URL-from-HTML-using-lxml
 
 
-### Steps to run Code
-
-# python3.8 
-
-- Clone the repository.
-```
-git clone T### Steps to run Code
 
 # python3.8 
 
