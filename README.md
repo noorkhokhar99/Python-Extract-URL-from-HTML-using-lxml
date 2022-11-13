@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 
 <p align="center">
-<img src="https://github.com/noorkhokhar99/Mosaic-Generator/blob/main/Screen%20Shot%201444-04-18%20at%204.49.27%20PM.png">
+<img src="https://github.com/noorkhokhar99/Python-Extract-URL-from-HTML-using-lxml/blob/main/Screen%20Shot%201444-04-18%20at%2011.22.43%20PM.png">
 </p>
 
 
